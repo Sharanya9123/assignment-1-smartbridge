@@ -1,1 +1,1 @@
-# assignment-1-smartbridge
+# assignment-1-VEC-smartbridge
